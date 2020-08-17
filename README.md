@@ -1,2 +1,3 @@
 # pig-Game-Dice-Game-
+you can try the game here....
 https://bhabalomkar421.github.io/pig-Game-Dice-Game-/
